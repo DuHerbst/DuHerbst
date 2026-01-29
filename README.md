@@ -1,8 +1,8 @@
-I’m @Miss_Nibiru
-Afuera es Hostil 🎮
-I’m an illustrator turned indie game developer & I use games as a lens to talk about art, culture and power.
+- I’m @Miss_Nibiru
+- Afuera es Hostil 🎮
+- I’m an illustrator turned indie game developer & I use games as a lens to talk about art, culture and power.
 
-Currently rebuilding my life through game development.
+- Currently rebuilding my life through game development.
 
 
 <!---
